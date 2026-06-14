@@ -9,7 +9,7 @@ object Constants {
         packageName = "com.busuu.android.enc",
         targets = listOf(
             AppTarget(
-                version = "34.41.0"
+                version = "32.41.0"
             ),
             AppTarget(
                 version = null,
